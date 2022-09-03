@@ -1,0 +1,56 @@
+
+.navbar1{
+    background-color: rgb(73, 98, 73);
+}
+
+.hero{
+    background-image: url("https://prestashop.mahardhi.com/MT08/paudha/modules/mt_homeslider/images/banner-1.jpg");
+    width: 1390px;
+    height: 90vh;
+    background-size: cover;
+}
+
+
+.discount{
+    color: green;
+}
+
+.btnshop{
+    background-color: rgb(73, 98, 73);
+    color: white;
+    width: 9rem;
+    height: 3rem;
+}
+
+.flight{
+    width: 4rem;
+    height: 4rem;
+}
+
+.imgplant{
+    width: 15rem;
+    height: 20rem;
+}
+
+.btn-type{
+    width: 9rem;
+    height: 3rem;
+    background-color: rgb(73, 98, 73);
+    color: white;
+}
+
+.star{
+    width: 5rem;
+}
+
+.left-img{
+    background-image: url("https://prestashop.mahardhi.com/MT08/paudha/modules/mt_customhtml/img/banner-1.jpg");
+    height: 25rem;
+    margin-right: 1rem;
+}
+
+.right-img{
+    background-image: url("https://prestashop.mahardhi.com/MT08/paudha/modules/mt_customhtml/img/banner-2.jpg");
+    height: 25rem;
+    margin-left: 1rem;
+}
